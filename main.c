@@ -22,6 +22,7 @@ void display();
 void erase();
 void Main()
 {
+	//...
 	InitGraphics();
 	InitConsole();
 	registerMouseEvent(MouseEventProcess);
